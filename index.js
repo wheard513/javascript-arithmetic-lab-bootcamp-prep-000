@@ -3,13 +3,13 @@ function add(string) {
 }
 
 function subtract() {
-  return ( === a-b)
+  return (string === a-b)
 }
 
 function multiply() {
-  return ( === a*b)
+  return (string === a*b)
 }
 
 function divide() {
-  return ( === a/b)
+  return (string === a/b)
 }
