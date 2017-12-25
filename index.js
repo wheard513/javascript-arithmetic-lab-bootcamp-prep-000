@@ -1,5 +1,5 @@
-function add(string) {
-  return (string === a+b)
+function add(a, b) {
+  return (result === a+b)
 }
 
 function subtract() {
